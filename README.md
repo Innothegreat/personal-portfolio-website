@@ -15,7 +15,7 @@ This is a personal portfolio website showcasing my skills, projects, educational
 
 ## 🔗 Live Preview
 
-[Live Website Link](https://Innothegreat.github.io/personal-portfolio-website)
+[Live Website Link](https://Innothegreat.github.io/personal-portfolio-website/Mainpage.html)
 
 ## 🚀 Technologies Used
 

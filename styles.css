@@ -1,0 +1,139 @@
+.img_center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 50%;
+        }
+
+nav a{
+    font-size: 1.2rem;
+    color: rgb(163, 168, 189);
+    margin-left: 4rem;
+    font-weight: 500;
+    transition: 0.3s ease;
+    border-bottom: 3px solid transparent;
+    transform: scale(1.1);
+}
+
+nav a:hover,
+nav a.active{
+    color: #f11212;
+    border-bottom: 3px solid #b74b4b;
+}
+
+nav {
+background: rgb(33, 48, 46);
+text-align: center;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.body_text {
+    background-color: #222;
+}
+
+#about {
+    background-color: rgb(67, 155, 143);
+    color: white;
+    text-align: center;
+}
+
+#skills {
+    background-color: chocolate;
+    color: white;
+}
+
+#skill-menu {
+    text-align: center;
+}
+
+#interests {
+background-color:chocolate ;
+color: white;
+text-align: center;
+}
+
+#education {
+    background-color: rgb(67, 155, 143);
+    color: white;
+    text-align: center;
+}
+
+#projects {
+    background-color: rgb(67, 155, 143);
+    color: white;
+    text-align: center;
+}
+
+#contact {
+    background-color:orange;
+    color: red;
+    text-align: center;
+}
+
+header, footer {
+  background: #222;
+  color: #dac61686;
+  padding: 1em 0;
+  text-align: center;
+}
+
+section {
+  padding: 20px;
+  margin: 10px;
+  background: white;
+  border-radius: 10px;
+}
+
+form input, form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+form button {
+  padding: 10px 20px;
+  background: #222;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.input-contacts {
+    width: 400px;
+    height: 50px;
+    border: none;
+    outline: none;
+    padding-left: 25px;
+    font-weight: 500;
+    color: #666;
+    border-radius: 50px;
+    border: 2px solid #b74b4b;
+}
+
+.input-contacts:focus {
+    border: 2px solid #4fff7b;
+}
+
+.contact-form button {
+    border-radius: 50px;
+    background:linear-gradient(270deg,#df1e2e,#83545d)
+}
+
+h1 {
+    border: 2px solid #a8d1d486;
+    background-color: #e7f705d3;
+    color: white;
+}
+
+h2 {
+    border: 2px solid #13ee0b86;
+    background-color: #17181786;
+}
